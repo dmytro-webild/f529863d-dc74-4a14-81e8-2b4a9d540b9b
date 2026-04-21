@@ -53,7 +53,7 @@ export default function LandingPage() {
             ]}
             enableKpiAnimation={true}
             buttons={[
-              { text: "Call Now", href: "tel:+15550123456" },
+              { text: "Email Now", href: "mailto:fatimakinza673@gmail.com" },
               { text: "Get a Free Quote", href: "#contact" }
             ]}
             imageSrc="http://img.b2bpic.net/free-photo/still-life-office-desk-mess_23-2150164872.jpg"
@@ -177,7 +177,7 @@ export default function LandingPage() {
             title="Ready to Start Your Project?"
             description="Get in touch for a free, no-obligation project consultation. Let's grow your business together."
             buttons={[
-              { text: "Call Now: +1 (555) 012-3456", href: "tel:+15550123456" },
+              { text: "Email: fatimakinza673@gmail.com", href: "mailto:fatimakinza673@gmail.com" },
               { text: "Get a Free Quote", href: "#" }
             ]}
           />
@@ -188,7 +188,7 @@ export default function LandingPage() {
             logoText="Kinza Graphic Designer"
             columns={[
               { title: "Quick Links", items: [{ label: "Home", href: "#hero" }, { label: "Services", href: "#services" }, { label: "Portfolio", href: "#portfolio" }] },
-              { title: "Contact", items: [{ label: "Email: hello@kinza.design", href: "mailto:hello@kinza.design" }, { label: "Phone: +1 555 012-3456", href: "tel:+15550123456" }] }
+              { title: "Contact", items: [{ label: "Email: fatimakinza673@gmail.com", href: "mailto:fatimakinza673@gmail.com" }, { label: "Phone: +1 555 012-3456", href: "tel:+15550123456" }] }
             ]}
             copyrightText="© 2025 Kinza Graphic Designer. All rights reserved."
           />
